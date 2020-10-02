@@ -34,7 +34,7 @@ I'm passionate about applying Machine learning methods to solve real-life proble
 [<img target="_blank" src="https://img.icons8.com/color/64/000000/instagram"/>](https://www.instagram.com/akshayy_gb/)
 <a href="mailto:akshaybhatt0095@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 
-### 🗄 My projects:
+### 🗄 My Data Science projects:
 
 |👇 |Repo| Description|
 |---|---|---|
