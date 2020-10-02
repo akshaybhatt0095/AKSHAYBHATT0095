@@ -32,7 +32,7 @@ I'm passionate about applying Machine learning methods to solve real-life proble
 ### Connect with me 🤝📱:
 [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/akshay-bhat95/)
 [<img target="_blank" src="https://img.icons8.com/color/64/000000/instagram"/>](https://www.instagram.com/akshayy_gb/)
-<a href="mailto:akshaybhatt0095@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/> </a>
+<a href="mailto:akshaybhatt0095@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="4%"/> </a>
 
 ### 🗄 My Data Science projects:
 
