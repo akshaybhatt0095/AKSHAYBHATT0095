@@ -28,6 +28,11 @@ Here are some facts about me:
 [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/akshay-bhat95/)
 [<img target="_blank" src="https://img.icons8.com/color/64/000000/instagram"/>](https://www.instagram.com/akshayy_gb/)
 
+**My End to end projects**
+
+[![ Flight Price Prediction](https://img.shields.io/badge/-✈️ Flight Price Prediction-000?)](https://github.com/akshaybhatt0095/FLIGHT-FARE-PREDICTION-HEROKU-DEPLOYMENT)
+[![ Diabetes Prediction](https://img.shields.io/badge/-👨‍⚕️ Diabetes Prediction-000?)](https://github.com/akshaybhatt0095/DIABETES-PREDICTION-FLASK-DEPLOYMENT-)
+
 
 ### 🗄 My projects:
 
