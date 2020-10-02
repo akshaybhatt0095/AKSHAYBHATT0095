@@ -1,11 +1,11 @@
-### Hi there, I'm Akshay Bhat! 👋
+### Hi there, I'm Akshay Bhat! https://github.com/akshaybhatt0095/PYTHON-A-Z/blob/master/Hi.gif
 
 I'm a data science enthusiast, currently pursuing my 🎓master's degree in Business analytics at California State University, East Bay.
 I'm passionate about applying Machine learning methods to solve real-life problems and delivering Business intelligence insights.
 
-Here are some facts about me:
+🧐 About:
 
-- 💻 I’m currently looking for an Internship in machine learning/data analytics domain
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently looking for an Internship in machine learning/data analytics domain
 - 🌱 I’m currently learning Time series analytics
 - 👯 I’m looking to collaborate with other data science enthusiasts in machine learning domain
 - 🥅 2020 Goals: Learn Learn Learn!
@@ -17,7 +17,6 @@ Here are some facts about me:
 
 <img target="_blank" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/><img target="_blank" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/> 
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
@@ -37,7 +36,7 @@ Here are some facts about me:
 
 ### 🗄 My projects:
 
-|*|Repo|Description|
+| Repo|Description|
 |---|---|---|
 | 📦  | [Flight fare predictor/Flask/Heroku](https://github.com/akshaybhatt0095/FLIGHT-FARE-PREDICTION-HEROKU-DEPLOYMENT) |  ✈️ Machine learning End to End project built to predict the flight price. Model is converted into a flask app and deployed on heroku  |
 | 📦 | [SFO/Real estate analysis](https://github.com/akshaybhatt0095/REAL-ESTATE-ANALYSIS-SFO) | 🏘️ Analysis carried on 600+ properties in and around San Francisco Bay area |
