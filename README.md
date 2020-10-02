@@ -28,15 +28,13 @@ Here are some facts about me:
 [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/akshay-bhat95/)
 [<img target="_blank" src="https://img.icons8.com/color/64/000000/instagram"/>](https://www.instagram.com/akshayy_gb/)
 
-**My End to end projects**
-
-[![ Flight Price Prediction](https://img.shields.io/badge/-✈️ Flight Price Prediction-000?)](https://github.com/akshaybhatt0095/FLIGHT-FARE-PREDICTION-HEROKU-DEPLOYMENT)
-[![ Diabetes Prediction](https://img.shields.io/badge/-👨‍⚕️ Diabetes Prediction-000?)](https://github.com/akshaybhatt0095/DIABETES-PREDICTION-FLASK-DEPLOYMENT-)
-
 
 ### 🗄 My projects:
 
 |*|Repo|Description|
 |---|---|---|
-| 📦  | [Flight fare predictor/Flask/Heroku](https://github.com/akshaybhatt0095/FLIGHT-FARE-PREDICTION-HEROKU-DEPLOYMENT) | ❄️ Machine learning End to End project built to predict the flight price. Model is converted into a flask app and deployed on heroku  |
-| 📦 | [SFO/Real estate analysis](https://github.com/akshaybhatt0095/REAL-ESTATE-ANALYSIS-SFO) | 👀 Analysis carried on 600+ properties in and around San Francisco Bay area |
+| 📦  | [Flight fare predictor/Flask/Heroku](https://github.com/akshaybhatt0095/FLIGHT-FARE-PREDICTION-HEROKU-DEPLOYMENT) |  ✈️ Machine learning End to End project built to predict the flight price. Model is converted into a flask app and deployed on heroku  |
+| 📦 | [SFO/Real estate analysis](https://github.com/akshaybhatt0095/REAL-ESTATE-ANALYSIS-SFO) | 🏘️ Analysis carried on 600+ properties in and around San Francisco Bay area |
+| 📦 | [Bank Note Authentication/ Docker](https://github.com/akshaybhatt0095/BANK-NOTE-AUTHENTICATION-WITH-DOCKER-DEPLOYMENT) | 💵 Built a Random forest classifier model to check the authenticity of bank notes. Further, the model is converted to a flask app and deployed using Docker  |
+| 📦 | [ Soccer Team Building/Selection](https://github.com/akshaybhatt0095/INTEGER-PROGRAMMING-MODEL-FOR-TEAM-SELECTION) | ⚽ Integer programming model to build 3 soccer teams from a pool of players based on certain requirements  |
+| 📦  | [ Predict Bank Customers ](https://github.com/akshaybhatt0095/MACHINE-LEARNING-PROJECTS/tree/master/Predict%20Bank%20Customers) |  🏦  Predict if the Customer will subscribe to a term deposit or not |
