@@ -11,6 +11,7 @@ Here are some facts about me:
 - 🥅 2020 Goals: Learn Learn Learn!
 - 📫 Reach me at **akshaybhatt0095@gmail.com**
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ### Languages and Tools:
 
