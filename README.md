@@ -13,4 +13,4 @@ Here are some facts about me:
 
 ### Connect with me 📱:
 [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/akshay-bhat95/)
-[<img target="_blank" src="https://www.flaticon.com/free-icon/instagram_2111463.png"/>](https://www.instagram.com/akshayy_gb/)
+[<img target="_blank" src="https://img.icons8.com/color/instagram"/>](https://www.instagram.com/akshayy_gb/)
