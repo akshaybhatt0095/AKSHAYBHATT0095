@@ -33,5 +33,5 @@ Here are some facts about me:
 
 |*|Repo|Description|
 |---|---|---|
-| 📦  | [Flight fare predictor/Flask/Heroku](https://github.com/akshaybhatt0095/FLIGHT-FARE-PREDICTION-HEROKU-DEPLOYMENT) | ❄️ Machine learning End to End project built to predict the flight price. Also the model is converted into a flask app and deployed on heroku  |
+| 📦  | [Flight fare predictor/Flask/Heroku](https://github.com/akshaybhatt0095/FLIGHT-FARE-PREDICTION-HEROKU-DEPLOYMENT) | ❄️ Machine learning End to End project built to predict the flight price. Model is converted into a flask app and deployed on heroku  |
 | 📦 | [SFO/Real estate analysis](https://github.com/akshaybhatt0095/REAL-ESTATE-ANALYSIS-SFO) | 👀 Analysis carried on 600+ properties in and around San Francisco Bay area |
