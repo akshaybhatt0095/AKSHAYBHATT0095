@@ -1,4 +1,4 @@
-### Hi there, I'm Akshay Bhat! https://github.com/akshaybhatt0095/PYTHON-A-Z/blob/master/Hi.gif
+### Hi there, I'm Akshay Bhat! <img src="https://github.com/akshaybhatt0095/PYTHON-A-Z/blob/master/Hi.gif" width="30px">
 
 I'm a data science enthusiast, currently pursuing my 🎓master's degree in Business analytics at California State University, East Bay.
 I'm passionate about applying Machine learning methods to solve real-life problems and delivering Business intelligence insights.
