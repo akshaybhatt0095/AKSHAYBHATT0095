@@ -41,7 +41,7 @@ I'm passionate about applying Machine learning methods to solve real-life proble
 |👇 |Repo| Description|
 |---|---|---|
 | 📦  | [Flight fare predictor/Flask/Heroku Deployment](https://github.com/akshaybhatt0095/FLIGHT-FARE-PREDICTION-HEROKU-DEPLOYMENT) |  ✈️ Machine learning End to End project built to predict the flight price. Model is converted into a flask app and deployed on heroku  |
-| 📦  | [US POLICE KILLINGS/VIZ/VOILA](https://github.com/akshaybhatt0095/DATA-ANALYTICS-VISUALIZATION-PROJECTS/tree/main/US%20SHOOTINGS) |  🔫 Visualization project aimed to find out the actual scenario behind the police killings in USA. The Jupyter file is converted to a voila dashboarding app |
+| 📦  | [US Police Killings/Data Viz/Voila](https://github.com/akshaybhatt0095/DATA-ANALYTICS-VISUALIZATION-PROJECTS/tree/main/US%20SHOOTINGS) |  🔫 Visualization project aimed to bring out the insights from the police killings in the USA. The Jupyter file is converted to a voila dashboarding app |
 | 📦  | [ Diabetes Prediction/Flask App](https://github.com/akshaybhatt0095/DIABETES-PREDICTION-FLASK-APP) |  🩸 Machine learning End to End project built to predict if the person has diabetes or not and converted into a flask app  |
 | 📦 | [SFO/Real estate analysis](https://github.com/akshaybhatt0095/REAL-ESTATE-ANALYSIS-SFO) | 🏘️ Analysis carried on 600+ properties in and around San Francisco Bay area |
 | 📦 | [Bank Note Authentication/ Docker](https://github.com/akshaybhatt0095/BANK-NOTE-AUTHENTICATION-WITH-DOCKER-DEPLOYMENT) | 💵 Built a Random forest classifier model to check the authenticity of bank notes. Further, the model is converted to a flask app and deployed using Docker  |
