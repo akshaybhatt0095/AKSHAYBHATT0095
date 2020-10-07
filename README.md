@@ -48,6 +48,7 @@ I'm passionate about applying Machine learning methods to solve real-life proble
 | 📦 | [Bank Note Authentication/ Docker](https://github.com/akshaybhatt0095/BANK-NOTE-AUTHENTICATION-WITH-DOCKER-DEPLOYMENT) | 💵 Built a Random forest classifier model to check the authenticity of bank notes. Further, the model is converted to a flask app and deployed using Docker  |
 | 📦 | [ Soccer Team Building/Selection](https://github.com/akshaybhatt0095/INTEGER-PROGRAMMING-MODEL-FOR-TEAM-SELECTION) | ⚽ Integer programming model to build 3 soccer teams from a pool of players based on certain requirements  |
 | 📦  | [ Predict Bank Customers ](https://github.com/akshaybhatt0095/MACHINE-LEARNING-PROJECTS/tree/master/Predict%20Bank%20Customers) |  🏦  Predict if the Customer will subscribe to a term deposit or not |
+| 📦  | [ Practice ML projects](https://github.com/akshaybhatt0095/MACHINE-LEARNING-PROJECTS) | 📁 Miscellaneous ML projects completed by me for self learning purpose. |
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing"/>](https://open.spotify.com/user/Akshaybhatt)
