@@ -48,7 +48,7 @@ I'm passionate about applying Machine learning methods to solve real-life proble
 | 📦  | [SFO/Real estate analysis](https://github.com/akshaybhatt0095/REAL-ESTATE-ANALYSIS-SFO) | 🏘️ Analysis carried on 600+ properties in and around San Francisco Bay area |
 | 📦  | [Bank Note Authentication/Flask App](https://github.com/akshaybhatt0095/BANK-NOTE-AUTHENTICATION-FLASK-APP) | 💵 Built a Random forest classifier model to check the authenticity of bank notes. Further, the model is converted to a flask app.  |
 | 📦  | [ Soccer Team Building/Selection](https://github.com/akshaybhatt0095/INTEGER-PROGRAMMING-MODEL-FOR-TEAM-SELECTION) | ⚽ Integer programming model to build 3 soccer teams from a pool of players based on certain requirements  |
-| 📦  |  [Recommendation system/Projects] (https://github.com/akshaybhatt0095/RECOMMENDATION-SYSTEMS-PROJECTS)| 🎥 Involves all types of recommendation projects |
+| 📦  |  [Recommendation system/Projects](https://github.com/akshaybhatt0095/RECOMMENDATION-SYSTEMS-PROJECTS)| 🎥 Involves all types of recommendation projects |
 | 📦  | [ Predict Bank Customers ](https://github.com/akshaybhatt0095/MACHINE-LEARNING-PROJECTS/tree/master/Predict%20Bank%20Customers) |  🏦  Predict if the Customer will subscribe to a term deposit or not |
 | 📦  | [ Practice ML projects](https://github.com/akshaybhatt0095/MACHINE-LEARNING-PROJECTS) | 📁 Miscellaneous ML projects completed by me for self learning purpose. |
 
