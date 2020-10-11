@@ -10,6 +10,7 @@ I'm passionate about applying Machine learning methods to solve real-life proble
 - 👯 I’m looking to collaborate with other data science enthusiasts in machine learning domain
 - 🥅 2020 Goals: Learn Learn Learn!
 - 📫 Reach me at **akshaybhatt0095@gmail.com**
+- 📌 Do check out my pinned projects below👇
 
 <img align="right" alt="GIF" src="https://github.com/akshaybhatt0095/PYTHON-A-Z/blob/master/code.gif?raw=true" width="500" height="320" />
 
