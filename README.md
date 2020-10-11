@@ -55,4 +55,4 @@ I'm passionate about applying Machine learning methods to solve real-life proble
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing"/>](https://open.spotify.com/user/Akshaybhatt)
 
-<h1 align='center'><i>Stay awesome!</i></h1>
+<h1 align='center'><i>Long way to go!</i></h1>
