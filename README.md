@@ -6,7 +6,7 @@ I'm passionate about applying Machine learning methods to solve real-life proble
 🧐 About:
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently looking for an Internship in machine learning/data analytics domain
-- 🌱 I’m currently learning Time series analytics
+- 🌱 I’m currently learning Time series analytics and Recommendation systems
 - 👯 I’m looking to collaborate with other data science enthusiasts in machine learning domain
 - 🥅 2020 Goals: Learn Learn Learn!
 - 📫 Reach me at **akshaybhatt0095@gmail.com**
