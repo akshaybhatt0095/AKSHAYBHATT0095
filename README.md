@@ -5,7 +5,7 @@ Welcome to my portfolio. I am a Data Scientist/Analyst and Informaticist. This i
 
 🧐 About:
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently looking for an Internship in machine learning/data analytics domain
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently looking for a full time opportunity as a data analyst/data scientist
 - 🌱 I’m currently learning Time series analytics and Recommendation systems
 - 👯 I’m looking to collaborate with other data science enthusiasts in machine learning domain
 - 🥅 2020 Goals: Learn Learn Learn!
