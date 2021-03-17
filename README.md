@@ -44,6 +44,7 @@ Welcome to my portfolio. I am a Data Scientist/Analyst and Informaticist. This i
 |👇 |Repo| Description|
 |---|---|---|
 | 📦  | [Flight fare predictor/Flask/Heroku Deployment/ Random forest regressor](https://github.com/akshaybhatt0095/FLIGHT-FARE-PREDICTION-HEROKU-DEPLOYMENT) |  ✈️ Machine learning End to End project built to predict the flight price. Model is converted into a flask app and deployed on heroku  |
+| 📦  | [Time series analysis/ US private housing starts](https://github.com/akshaybhatt0095/US-Private-housing-starts--Time-series-analysis) | 🏠 Time series project focusing on US housing data |
 | 📦  | [US Police Killings/Data Viz/Voila](https://github.com/akshaybhatt0095/DATA-ANALYTICS-VISUALIZATION-PROJECTS/tree/main/US%20SHOOTINGS) |  🔫 Visualization project aimed to bring out the insights from the police killings in the USA. The Jupyter file is converted to a voila dashboarding app |
 | 📦  | [ANZ BANK/ Virtual Internship experience program](https://github.com/akshaybhatt0095/DATA-ANALYTICS-VISUALIZATION-PROJECTS/tree/main/ANZ) | 📊 Project focusing on EDA and Geo-Spatial mapping hosted by ANZ bank of Australia as a part of virtual experience program |
 | 📦  | [ Practice ML projects](https://github.com/akshaybhatt0095/MACHINE-LEARNING-PROJECTS) | 📁 Miscellaneous ML projects completed by me for self learning purpose. |
