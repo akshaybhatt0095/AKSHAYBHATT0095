@@ -47,7 +47,7 @@ Welcome to my portfolio. I am a Data Scientist/Analyst and Informaticist. This i
 
 |👇 |Repo| Description|
 |---|---|---|
-| 📦  | [Flight fare predictor/Flask/Heroku Deployment/ Random forest regressor](https://github.com/akshaybhatt0095/FLIGHT-FARE-PREDICTION-HEROKU-DEPLOYMENT) |  ✈️ Machine learning End to End project built to predict the flight price. Model is converted into a flask app and deployed on heroku  |
+| 📦  | [ML End-to-End project/ Flight fare predictor/Flask app/Heroku Deployment](https://github.com/akshaybhatt0095/FLIGHT-FARE-PREDICTION-HEROKU-DEPLOYMENT) |  ✈️ Machine learning End to End project built to predict the flight price. Model is converted into a flask app and deployed on heroku  |
 | 📦  | [Time series analysis/ US private housing starts](https://github.com/akshaybhatt0095/US-Private-housing-starts--Time-series-analysis) | 🏠 Time series project focusing on US housing data |
 | 📦  | [Sales Management- End-to-End Data analysis project](https://github.com/akshaybhatt0095/Sales-Management--Data-analysis-project) | 🎢 Project focused on Data cleansing, transformation and visualization involving sales data |
 | 📦  | [US Police Killings/Data Viz/Voila](https://github.com/akshaybhatt0095/DATA-ANALYTICS-VISUALIZATION-PROJECTS/tree/main/US%20SHOOTINGS) |  🔫 Visualization project aimed to bring out the insights from the police killings in the USA. The Jupyter file is converted to a voila dashboarding app |
