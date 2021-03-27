@@ -31,6 +31,12 @@ Welcome to my portfolio. I am a Data Scientist/Analyst and Informaticist. This i
 <img target="_blank" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"/>
 <img target="_blank" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
 <img target="_blank" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
+<img target="_blank" width="40px" src="https://github.com/akshaybhatt0095/PYTHON-A-Z/blob/master/Hadoop.jpg"/>
+<img target="_blank" width="40px" src="https://github.com/akshaybhatt0095/PYTHON-A-Z/blob/master/Power-BI-Logo.png"/>
+<img target="_blank" width="40px" src="https://github.com/akshaybhatt0095/PYTHON-A-Z/blob/master/alteryx.png"/>
+<img target="_blank" width="40px" src="https://github.com/akshaybhatt0095/PYTHON-A-Z/blob/master/apache%20spark.jpg"/>
+<img target="_blank" width="40px" src="https://github.com/akshaybhatt0095/PYTHON-A-Z/blob/master/hive.png"/>
+
 
 ### Connect with me 🤝📱:
 [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/akshay-bhat95/)
@@ -43,6 +49,7 @@ Welcome to my portfolio. I am a Data Scientist/Analyst and Informaticist. This i
 |---|---|---|
 | 📦  | [Flight fare predictor/Flask/Heroku Deployment/ Random forest regressor](https://github.com/akshaybhatt0095/FLIGHT-FARE-PREDICTION-HEROKU-DEPLOYMENT) |  ✈️ Machine learning End to End project built to predict the flight price. Model is converted into a flask app and deployed on heroku  |
 | 📦  | [Time series analysis/ US private housing starts](https://github.com/akshaybhatt0095/US-Private-housing-starts--Time-series-analysis) | 🏠 Time series project focusing on US housing data |
+| 📦  | [Sales Management- End-to-End Data analysis project](https://github.com/akshaybhatt0095/Sales-Management--Data-analysis-project) | 🎢 Project focused on Data cleansing, transformation and visualization involving sales data |
 | 📦  | [US Police Killings/Data Viz/Voila](https://github.com/akshaybhatt0095/DATA-ANALYTICS-VISUALIZATION-PROJECTS/tree/main/US%20SHOOTINGS) |  🔫 Visualization project aimed to bring out the insights from the police killings in the USA. The Jupyter file is converted to a voila dashboarding app |
 | 📦  | [ANZ BANK/ Virtual Internship experience program](https://github.com/akshaybhatt0095/DATA-ANALYTICS-VISUALIZATION-PROJECTS/tree/main/ANZ) | 📊 Project focusing on EDA and Geo-Spatial mapping hosted by ANZ bank of Australia as a part of virtual experience program |
 | 📦  | [ Practice ML projects](https://github.com/akshaybhatt0095/MACHINE-LEARNING-PROJECTS) | 📁 Miscellaneous ML projects completed by me for self learning purpose. |
