@@ -49,6 +49,7 @@ Welcome to my portfolio. I am a Data Scientist/Analyst and Informaticist. This i
 |---|---|---|
 | 📦  | [ML End-to-End project/ Flight fare predictor/Flask app/Heroku Deployment](https://github.com/akshaybhatt0095/FLIGHT-FARE-PREDICTION-HEROKU-DEPLOYMENT) |  ✈️ Machine learning End to End project built to predict the flight price. Model is converted into a flask app and deployed on heroku  |
 | 📦  | [Time series analysis/ US private housing starts](https://github.com/akshaybhatt0095/US-Private-housing-starts--Time-series-analysis) | 🏠 Time series project focusing on US housing data |
+| 📦  | [Tableau Work](https://github.com/akshaybhatt0095/Tableau-Data-analysis) | 💻 Collection of my Tableau data analysis and visualization work |
 | 📦  | [Sales Management- End-to-End Data analysis project](https://github.com/akshaybhatt0095/Sales-Management--Data-analysis-project) | 🎢 Project focused on Data cleansing, transformation and visualization involving sales data |
 | 📦  | [US Police Killings/Data Viz/Voila](https://github.com/akshaybhatt0095/DATA-ANALYTICS-VISUALIZATION-PROJECTS/tree/main/US%20SHOOTINGS) |  🔫 Visualization project aimed to bring out the insights from the police killings in the USA. The Jupyter file is converted to a voila dashboarding app |
 | 📦  | [ANZ BANK/ Virtual Internship experience program](https://github.com/akshaybhatt0095/DATA-ANALYTICS-VISUALIZATION-PROJECTS/tree/main/ANZ) | 📊 Project focusing on EDA and Geo-Spatial mapping hosted by ANZ bank of Australia as a part of virtual experience program |
