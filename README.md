@@ -47,8 +47,8 @@ Welcome to my portfolio. I am a Data Scientist/Analyst and Informaticist. This i
 
 |👇 |Repo| Description|
 |---|---|---|
-| 📦  | [ML End-to-End project/ Flight fare predictor/Flask app/Heroku Deployment](https://github.com/akshaybhatt0095/FLIGHT-FARE-PREDICTION-HEROKU-DEPLOYMENT) |  ✈️ Machine learning End to End project built to predict the flight price. Model is converted into a flask app and deployed on heroku  |
 | 📦  | [Grow Airbnb bookings](https://github.com/akshaybhatt0095/airbnb--Data-science-project) | 🏨 Project focused on increasing the number of successful bookings using OKR model |
+| 📦  | [ML End-to-End project/ Flight fare predictor/Flask app/Heroku Deployment](https://github.com/akshaybhatt0095/FLIGHT-FARE-PREDICTION-HEROKU-DEPLOYMENT) |  ✈️ Machine learning End to End project built to predict the flight price. Model is converted into a flask app and deployed on heroku  |
 | 📦  | [Time series analysis/ US private housing starts](https://github.com/akshaybhatt0095/US-Private-housing-starts--Time-series-analysis) | 🏠 Time series project focusing on US housing data |
 | 📦  | [Tableau Data analysis and visualization ](https://github.com/akshaybhatt0095/Tableau-Data-analysis) | 💻 Collection of my Tableau data analysis and visualization work |
 | 📦  | [Sales Management- End-to-End Data analysis project](https://github.com/akshaybhatt0095/Sales-Management--Data-analysis-project) | 🎢 Project focused on Data cleansing, transformation and visualization involving sales data |
