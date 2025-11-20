@@ -1,6 +1,6 @@
 ### Hi there, I'm Akshay! <img src="https://github.com/akshaybhatt0095/PYTHON-A-Z/blob/master/Hi.gif" width="30px">
 
-Welcome to my portfolio. I am a Data engineer and Analytics Professional.. This is a collection of projects that I am working on from a variety of disciplines and fields for academic and hobby purposes.
+Welcome to my portfolio. I am a Data engineer and Analytics Professional.This is a collection of projects that I am working on from a variety of disciplines and fields for academic and hobby purposes.
 
 
 *Note: Data used in projects are for demonstration purposes and derive from publicly accessible sources.
