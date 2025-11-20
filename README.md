@@ -5,10 +5,7 @@ Welcome to my portfolio. I am a Data engineer and Analytics Professional.This is
 
 *Note: Data used in projects are for demonstration purposes and derive from publicly accessible sources.
 
-🧐 About:
-
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently looking for a full time opportunity as a data analyst/data scientist
-- 🌱 I’m currently learning Time series analytics 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">About:
 - 👯 I’m looking to collaborate with other data science enthusiasts 
 - 📫 Reach me at **akshaybhatt0095@gmail.com**
 - 📌 Do check out my pinned projects below👇
